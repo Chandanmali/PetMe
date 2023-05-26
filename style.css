@@ -9,7 +9,10 @@
     padding: theme("spacing.6");
     box-shadow: theme("boxShadow.xl");
   }
-
+html{
+   scroll-behavior: smooth;
+  
+  }
   .contributors-container {
     display: flex;
     flex-direction: column;
